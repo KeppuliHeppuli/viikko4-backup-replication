@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.env
+*.env
+*.sql
+*.log
+*.pem
+*.key
+id_ed25519*
+backups/
